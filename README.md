@@ -7,7 +7,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 * [Download Link](http://lab205.org/aalta/data/Aalta_v2.0.zip)
 
-* [Video Link](http://lab205.org/aalta/data/aalta.mpg)
+* [A Video of the Tool](http://lab205.org/aalta/data/aalta.mpg)
 
 In this repository, for Aalta you will find:
 

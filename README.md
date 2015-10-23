@@ -1,5 +1,5 @@
 # FSE-2014-Aalta
-This repository contains information related to the tool Aalta presented at Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2661669).
+This repository contains information related to the tool 'Aalta', which was presented at Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2661669).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 

@@ -17,4 +17,4 @@ In this repository, for Aalta you will find:
 
 * :x: A slightly modified version of the tool Dheeraj Shetty got working (not available)
 
-This repository was constructed by [Dheeraj Shetty](https://github.com/DheerajSShetty) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).Thanks to Jianwen Li, Yinbo Yao, Geguang Pu, Lijun Zhang and Jifeng He for their help in establishing this repository.
+This repository was constructed by [Dheeraj Shetty](https://github.com/DheerajSShetty) under the supervision of [Dr.Emerson Murphy-Hill](https://github.com/CaptainEmerson).Thanks to Jianwen Li, Yinbo Yao, Geguang Pu, Lijun Zhang and Jifeng He for their help in establishing this repository.

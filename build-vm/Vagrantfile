@@ -20,10 +20,10 @@ Vagrant.configure(2) do |config|
 	# Install git utility
  	sudo apt-get install -y git
 
-	cd /home/vagrant/Desktop/
+	cd Desktop
 
 	mkdir AaltaSourceCode
-	cd AaltaSourceCode/
+	cd AaltaSourceCode
 
 	# Get Scripts from github repository
 	git clone https://github.com/SoftwareEngineeringToolDemos/FSE-2014-Aalta.git

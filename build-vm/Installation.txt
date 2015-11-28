@@ -1,0 +1,10 @@
+Installation of Aalta:
+
+1) download the source from the Author's website: http://lab205.org/aalta/
+
+Very recently, the page has been translated into Chinese. To access the code, visit the following GitHub repository (this is NOT the original author's repository):
+
+git clone https://github.com/SoftwareEngineeringToolDemos/FSE-2014-Aalta.git
+
+2) The source code will now be available under the folder: FSE-2014-Aalta
+

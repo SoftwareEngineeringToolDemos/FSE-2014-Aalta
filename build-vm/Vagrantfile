@@ -31,7 +31,7 @@ Vagrant.configure(2) do |config|
 	cp commands.sh ../../commands.sh
 	cp Aalta.desktop ../../Aalta.desktop
 	cp Readme.txt ../../Readme.txt
-	cp LICENSE.txt/ ../../LICENSE.txt
+	cp LICENSE.txt ../../LICENSE.txt
 	cp Installation.txt ../../Installation.txt	
 	cp AaltaAuthorDemonstration.desktop ../../AaltaAuthorDemonstration.desktop
 	cp AaltaDemoVideo.desktop ../../AaltaDemoVideo.desktop

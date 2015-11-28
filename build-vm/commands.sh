@@ -1,7 +1,6 @@
 #!/bin/bash
 
-cd Desktop/FSE-2014-Aalta
+cd Desktop/AaltaSourceCode/FSE-2014-Aalta
 make
-echo "Make Completed, Running tool"
 ./aalta
 

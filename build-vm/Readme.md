@@ -7,19 +7,10 @@
 6. To shutdown the VM, run the command: "vagrant halt" if you want vagrant to attempt a graceful shutdown. If not, then run the command: "vagrant halt -f"
 
 #Note
-* Please wait until "vagrant up" command has completed successfully before using the virtual machine.
+* Please wait until "vagrant up" command has completed successfully before using the virtual machine. The VM will reboot automatically once after vagrant up is completed. Please wait for the screen to show "Input Formula:" on the terminal to start using the tool.
 * VM login details if required:</br>
 User     : vagrant</br>
 Password : vagrant 
-
-* Run the command:
-~~~
-g++ -v
-~~~
- to verify the installation of g++ compiler on the VM. You should expect to see an output similar to this:
-~~~
-gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1)
-~~~
 
 # Acknowledgments
 * Used vagrant virtual box image of [ubuntu-trusty64-gui by chad-thompson](https://atlas.hashicorp.com/chad-thompson/boxes/ubuntu-trusty64-gui).

@@ -30,11 +30,9 @@ Vagrant.configure(2) do |config|
 
 	cd FSE-2014-Aalta/build-vm/
 	sudo chmod +x commands.sh
-	sudo chmod +x disablelock.sh
-
+	
 	# Copy files on the desktop
 	cp commands.sh ../../../commands.sh
-	cp disablelock.sh ../../../disablelock.sh
 	cp Aalta.desktop ../../../Aalta.desktop
 	cp Readme.txt ../../../Readme.txt
 	cp LICENSE.txt ../../../LICENSE.txt
@@ -42,12 +40,10 @@ Vagrant.configure(2) do |config|
 	cp AaltaAuthorDemonstration.desktop ../../../AaltaAuthorDemonstration.desktop
 	cp AaltaDemoVideo.desktop ../../../AaltaDemoVideo.desktop
 	
-
 	# Enable tool to run on startup
 	sudo mkdir "/home/vagrant/.config/autostart"
 	sudo cp Aalta.desktop /home/vagrant/.config/autostart/Aalta.desktop
-	sudo cp DisableScreenLock.desktop /home/vagrant/.config/autostart/DisableScreenLock.desktop
-	
+		
 	#Remove unused Launcher Applications
 	sudo rm -f "/usr/share/applications/ubuntu-amazon-default.desktop"
 	sudo rm -f "/usr/share/applications/ubuntu-software-center.desktop"
@@ -56,4 +52,3 @@ Vagrant.configure(2) do |config|
 
    SHELL
 end
-

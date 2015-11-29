@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=gnome-terminal -e "bash -c 'sudo ./disablelock.sh;$SHELL'"
+Terminal=true
+Type=Application
+

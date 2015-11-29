@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=gnome-terminal -e "bash -c 'sudo ./disablelock.sh;$SHELL'"
+Exec=gnome-terminal -e "bash -c 'sudo /home/vagrant/Desktop/disablelock.sh;$SHELL'"
 Terminal=true
 Type=Application
 
